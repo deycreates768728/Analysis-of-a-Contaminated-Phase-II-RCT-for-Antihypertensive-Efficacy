@@ -1,6 +1,6 @@
 # Analysis of a Contaminated Phase II RCT for Antihypertensive Efficacy
 
-**Inferencia 2026** — Department of Statistics, Presidency University, Kolkata
+**Inferencia 2026** — Department of Statistics, Ramkrishna Misson Narendrapur, Kolkata
 
 **Authors:** Pratik Majumdar, Sourav Dey, Sampad Nag
 
