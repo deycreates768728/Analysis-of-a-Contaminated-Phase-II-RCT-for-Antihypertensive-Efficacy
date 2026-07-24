@@ -1,0 +1,2 @@
+# Analysis-of-a-Contaminated-Phase-II-RCT-for-Antihypertensive-Efficacy
+Analysis of a Phase II RCT for an antihypertensive drug (Trx vs. Placebo), deliberately contaminated with a mid-trial device switch, differential dropout, and protocol deviations. Uses R to clean, impute, and stress-test the data finding a robust, statistically significant treatment effect that holds up even after removing the flagged site.
