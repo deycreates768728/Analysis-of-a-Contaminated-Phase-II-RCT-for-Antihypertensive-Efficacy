@@ -113,4 +113,4 @@ The script expects the raw data at `data/raw/trialx_hackathon_data.csv`.
 
 Majumdar, P., Dey, S., & Nag, S. (2026). *Analysis of a Contaminated Phase II
 RCT for Antihypertensive Efficacy*. Presented at Inferencia 2026, Department
-of Statistics, Presidency University, Kolkata.
+of Statistics, Ramkrishna Misson Narendrapur, Kolkata.
