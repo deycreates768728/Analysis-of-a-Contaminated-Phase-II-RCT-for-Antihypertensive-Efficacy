@@ -1,0 +1,149 @@
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\usepackage{titling}
+\fancyhf{}               % Clear fancy header/footer
+\fancyhead[L]{Presidency University}   % My name in Left footer
+\fancyhead[R]{\theauthor}
+\fancyfoot[C]{\thepage}  % Page number in Right footer
+\fancyfoot[R]{Instructor: SSR}
+
+\makeatletter
+\let\ps@plain\ps@fancy   % Plain page style = fancy page style
+\makeatother
+\end_preamble
+\use_default_options true
+\begin_modules
+knitr
+\end_modules
+\maintain_unincluded_children no
+\language english
+\language_package default
+\inputencoding auto-legacy
+\fontencoding auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_formatted_ref 0
+\use_minted 0
+\use_lineno 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 1.5cm
+\rightmargin 2cm
+\bottommargin 1.5cm
+\headheight 2cm
+\headsep 2cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tablestyle default
+\tracking_changes false
+\output_changes false
+\change_bars false
+\postpone_fragile_content false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Abstract for
+\begin_inset Newline linebreak
+\end_inset
+
+Analysis of a Contaminated Phase II RCT for Antihypertensive Efficacy
+\end_layout
+
+\begin_layout Author
+Pratik Majumdar,
+ Sourav Dey,
+ Sampad Nag
+\end_layout
+
+\begin_layout Date
+Presidency University
+\end_layout
+
+\begin_layout Standard
+Abstract:
+ Analysis of a Contaminated Phase II Randomized Controlled Trial for Antihypertensive Efficacy
+\end_layout
+
+\begin_layout Standard
+\SpecialChar allowbreak
+This study evaluates the efficacy of a new antihypertensive drug (Trx) using data from a Phase II randomized controlled trial across three clinical sites.
+ Despite "contamination" from protocol deviations at Site 3,
+ a measurement device switch at Site 2,
+ and differential dropout,
+ linear regression analysis reveals a significant reduction in systolic blood pressure (p < 0.001).
+ Inferential testing confirmed that measurement shifts and missingness—
+identified as Missing At Random (MAR)—
+did not invalidate the primary findings.
+ Sensitivity analyses excluding Site 3 demonstrated stable treatment effects,
+ confirming the drug's robust clinical performance despite real-world data irregularities.
+\end_layout
+
+\end_body
+\end_document
